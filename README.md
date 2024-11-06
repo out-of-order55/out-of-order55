@@ -8,7 +8,7 @@
 </td>
 <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=out-of-order55&layout=compact&langs_count=4)]()
+
 
 </td>
 </tr>
